@@ -1,0 +1,5 @@
+OBSERVAÇÃO: No arquivo index.html, realizei a linkagem para o download do arquivo correspondente ao questionário no formato .pdf
+
+Porém, realizei alguns testes e ele não fazia o download em si. Fiz algumas pesquisas e cheguei a conclusão de que o Chrome, navegador que eu uso, não suporta o download de arquivos em pdf, e sim, o navegador reconhece-o apenas para leitura.
+
+Por via das dúvidas, deixei a estrutura montada.
